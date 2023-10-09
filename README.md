@@ -9,7 +9,7 @@ For a timely decarbonization of our economy, power systems need to accommodate i
 
 ## Usage
 
-Everything is implemented in Python and results reported in the paper can be reproduced by running the Jupyter notebooks.
+Everything is implemented in Python and results reported in the paper can be reproduced by running the Jupyter notebooks. Note that the 96-case requires a copy of the data from the [RTS GLMC Test System](https://github.com/GridMod/RTS-GMLC) (release v0.2.2 of March 2022).
 
 ---
 
